@@ -23,7 +23,7 @@
   author:
     name             : "Hanseok Jeong"
     avatar           : "images/image.jpg"
-    bio              : "Researcher in hand interaction sensing, multimodal ML, and real-time inference systems."
+    bio              : "PhD student researching human-computer interaction, hand gesture detection, multimodal machine learning, and real-time inference systems."
     location         : "Daejeon, Republic of Korea"
     employer         :
     pubmed           : 
@@ -43,11 +43,11 @@
     instagram        :
     impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
     lastfm           :
-    linkedin         : # e.g., "linkedin username"
+    linkedin         : "https://www.linkedin.com/in/hanseokjeong/"
     dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-    orcid            : # e.g., "https://orcid.org/xxxx"
+    orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8357-3047"
     pinterest        :
-    soundcloud       :
+    soundcloud       : 
     stackoverflow    : # http://stackoverflow.com/users/123456/username
     steam            :
     tumblr           :
