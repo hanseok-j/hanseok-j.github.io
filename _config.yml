@@ -7,7 +7,7 @@
 
   # Site Settings
   title                    : "Hanseok Jeong"
-  description              : "Hand interaction sensing, multimodal machine learning, and real-time force estimation for HCI and rehabilitation."
+  description              : "Human-Computer Interaction, Interaction Sensing, Multimodal Machine Learning, Computer Vision"
   repository               : "hanseok-j/hanseok-j.github.io"
   google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@
   author:
     name             : "Hanseok Jeong"
     avatar           : "images/image.jpg"
-    bio              : "PhD student researching human-computer interaction, hand gesture detection, multimodal machine learning, and real-time inference systems."
+    bio              : "Ph.D. Student at KAIST, HCITech Lab"
     location         : "Daejeon, Republic of Korea"
     employer         :
     pubmed           : 
