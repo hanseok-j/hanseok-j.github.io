@@ -52,7 +52,7 @@ Advisor: Professor. Han-joon Kim
 - Bachelor of Science in Applied Statistics (GPA: 4.02/4.5), Dongguk University  -->
 
 # Research Experiences
-- *2026.02 - now* : Arizona State University, Human-in-Mind Engineering Research Lab (Visiting Scholar)
+- *2026.02 - Now* : Arizona State University, Human-in-Mind Engineering Research Lab (Visiting Scholar)
 - *2020.04 - 2022.07* : National Cancer Center (Researcher) 
 
 # Honors and Awards
