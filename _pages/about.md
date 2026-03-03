@@ -19,30 +19,18 @@ redirect_from:
 
 I am Hanseok Jeong, a Ph.D. student in the Graduate School of Culture Technology at KAIST, advised by Prof. Sang Ho Yoon. My research focuses on hand interaction sensing, multimodal machine learning, and real-time inference systems for human-computer interaction. I aim to develop end-to-end frameworks that detect hand position and estimate force using egocentric RGB cameras and wearable sensors such as IMU and EMG.
 
-# Peer Reviewed Publications 
-- **Jeong, H.**, Fangqing, L., and Yoon, S. H. 2024.  
-  Two-Channel EMG and IMU-Based Hand Gesture Classification Using Wearable Wristband.  
-  *Journal of KIISE* 31(3), 135–140.
+# Journal Articles 
+- **Jeong, H.**, Fangqing, L., and Yoon, S. H. 2024. Two-Channel EMG and IMU-Based Hand Gesture Classification Using Wearable Wristband. *Journal of KIISE* 31(3), 135–140.
 
-- Hwang, E., Park, H., Kim, H., Kim, J., **Jeong, H.**, Kim, S., and Kim, J. 2023.  
-  Development of Bispectral Index Score Prediction Model Based on Interpretable Deep Learning Algorithm.  
-  *Artificial Intelligence in Medicine*.
+- Hwang, E., Park, H., Kim, H., Kim, J., **Jeong, H.**, Kim, S., and Kim, J. 2023. Development of Bispectral Index Score Prediction Model Based on Interpretable Deep Learning Algorithm. *Artificial Intelligence in Medicine*.
 
-- **Jeong, H.**, and Kim, H. 2023.  
-  A Dynamic Correction Technique of Time-Series Data Using Anomaly Detection Model Based on LSTM-GAN.  
-  *Journal of Internet Broadcasting and Communication* 23, 103–111.
+- **Jeong, H.**, and Kim, H. 2023. A Dynamic Correction Technique of Time-Series Data Using Anomaly Detection Model Based on LSTM-GAN. *Journal of Internet Broadcasting and Communication* 23, 103–111.
 
-- Han, Y., Jeong, Y., Kim, S., **Jeong, H.** 2021.  
-  Changes in the Levels of Stress Perception, Experiencing Depressive Symptoms and Health-Related Quality of Life of Residents after the 2016 Gyeongju Earthquake.  
-  *International Journal of Environmental Research and Public Health* 18(2), 540.
+- Han, Y., Jeong, Y., Kim, S., **Jeong, H.** 2021. Changes in the Levels of Stress Perception, Experiencing Depressive Symptoms and Health-Related Quality of Life of Residents after the 2016 Gyeongju Earthquake. *International Journal of Environmental Research and Public Health* 18(2), 540.
 
-- Jeong, Y., Han, Y., Kim, S., **Jeong, H.** 2020.  
-  The Frequency of Impairments in Everyday Activities Due to the Overuse of the Internet, Gaming, or Smartphone, and Its Relationship to Health-Related Quality of Life in Korea.  
-  *BMC Public Health* 20, 954.
+- Jeong, Y., Han, Y., Kim, S., **Jeong, H.** 2020. The Frequency of Impairments in Everyday Activities Due to the Overuse of the Internet, Gaming, or Smartphone, and Its Relationship to Health-Related Quality of Life in Korea. *BMC Public Health* 20, 954.
 
-- Kim, J., Lee, S., Hwang, E., Ryu, K., **Jeong, H.**, Lee, J., Hwangbo, Y., Choi, K., and Cha, H. 2020.  
-  Limitations of Deep Learning Attention Mechanisms in Clinical Research: Empirical Case Study Based on the Korean Diabetic Disease Setting.  
-  *JMIR Medical Informatics* 22(12).
+- Kim, J., Lee, S., Hwang, E., Ryu, K., **Jeong, H.**, Lee, J., Hwangbo, Y., Choi, K., and Cha, H. 2020. Limitations of Deep Learning Attention Mechanisms in Clinical Research: Empirical Case Study Based on the Korean Diabetic Disease Setting. *JMIR Medical Informatics* 22(12).
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -60,7 +48,7 @@ I am Hanseok Jeong, a Ph.D. student in the Graduate School of Culture Technology
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-# Conference 
+# Conference Papers
 - **Jeong, H.**, Seo, J., and Yoon, S. H. 2025. Thumb Force Estimation with Egocentric Vision. *UIST 2025 Adjunct Proceedings*.
 
 - Seo, K., Seo, J., **Jeong, H.**, Kim, S., and Yoon, S. H. 2024. Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation. *NeurIPS 2024*.
