@@ -20,7 +20,31 @@ redirect_from:
 I am Hanseok Jeong, a Ph.D. student in the Graduate School of Culture Technology at KAIST, advised by Prof. Sang Ho Yoon. My research focuses on hand interaction sensing, multimodal machine learning, and real-time inference systems for human-computer interaction. I aim to develop end-to-end frameworks that detect hand position and estimate force using egocentric RGB cameras and wearable sensors such as IMU and EMG.
 
 # Peer Reviewed Publications 
+- **Jeong, H.**, Fangqing, L., and Yoon, S. H. 2024.  
+  Two-Channel EMG and IMU-Based Hand Gesture Classification Using Wearable Wristband.  
+  *Journal of KIISE* 31(3), 135–140.
 
+- Hwang, E., Park, H., Kim, H., Kim, J., **Jeong, H.**, Kim, S., and Kim, J. 2023.  
+  Development of Bispectral Index Score Prediction Model Based on Interpretable Deep Learning Algorithm.  
+  *Artificial Intelligence in Medicine*.
+
+- **Jeong, H.**, and Kim, H. 2023.  
+  A Dynamic Correction Technique of Time-Series Data Using Anomaly Detection Model Based on LSTM-GAN.  
+  *Journal of Internet Broadcasting and Communication* 23, 103–111.
+
+- Han, Y., Jeong, Y., Kim, S., **Jeong, H.** 2021.  
+  Changes in the Levels of Stress Perception, Experiencing Depressive Symptoms and Health-Related Quality of Life of Residents after the 2016 Gyeongju Earthquake.  
+  *International Journal of Environmental Research and Public Health* 18(2), 540.
+
+- Jeong, Y., Han, Y., Kim, S., **Jeong, H.** 2020.  
+  The Frequency of Impairments in Everyday Activities Due to the Overuse of the Internet, Gaming, or Smartphone, and Its Relationship to Health-Related Quality of Life in Korea.  
+  *BMC Public Health* 20, 954.
+
+- Kim, J., Lee, S., Hwang, E., Ryu, K., **Jeong, H.**, Lee, J., Hwangbo, Y., Choi, K., and Cha, H. 2020.  
+  Limitations of Deep Learning Attention Mechanisms in Clinical Research: Empirical Case Study Based on the Korean Diabetic Disease Setting.  
+  *JMIR Medical Informatics* 22(12).
+
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -33,12 +57,49 @@ I am Hanseok Jeong, a Ph.D. student in the Graduate School of Culture Technology
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 # Conference 
+- **Jeong, H.**, Seo, J., and Yoon, S. H. 2025.  
+  Thumb Force Estimation with Egocentric Vision.  
+  *UIST 2025 Adjunct Proceedings*.
 
+- Seo, K., Seo, J., **Jeong, H.**, Kim, S., and Yoon, S. H. 2024.  
+  Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation.  
+  *NeurIPS 2024*.
 
+- Yoon, S. H., Sung, Y., Song, K. W., Jung, K., Seo, K., Kim, J., Yi, H., Vanichvoranun, N., **Jeong, H.**, and Lee, H. 2024.  
+  Adaptive and Immersive XR Interactions with Wearable Interfaces.  
+  *CHI EA 2024*.
+
+- **Jeong, H.**, Fangqing, L., and Yoon, S. H. 2024.  
+  Two-Channel EMG and IMU-Based Hand Gesture Classification Using Wearable Wristband.  
+  *Proceedings of the Korea Information Science Society Conference*, 1486–1488.
+
+- Seo, K., Seo, J., **Jeong, H.**, and Yoon, S. H. 2023.  
+  Electromyography-Based Estimation of Finger Force for Hand Interaction in Various Postures.  
+  *Proceedings of the Korea Information Science Society Conference*, 1279–1281.
+
+- Kim, J., Kim, S., Kim, Y., Park, K., **Jeong, H.**, and Kim, J. 2023.  
+  SurProGenes: Survival Risk-Ordered Representation of Cancer Patients and Genes for the Identification of Prognostic Genes.  
+  *ICML 2023*.
+
+- **Jeong, H.**, Jeong, J., and Kim, H. 2023.  
+  Multivariate Time-Series Data Correction by Combining Attention-Based LSTM and GAN Model.  
+  *ICASI 2023*. IEEE.
+
+- Jeong, J., **Jeong, H.**, and Kim, H. 2023.  
+  BAMTGAN: A Balanced Augmentation Technique for Tabular Data.  
+  *ICASI 2023*. IEEE.
+
+- **Jeong, H.**., Kim, J., Jeong, J., and Kim, H. 2022.  
+  Deep Learning Models with Stratification-Based Loss Function on Domain Knowledge-Based Time Series Data: Hypotension Prediction.  
+  *IEEE Big Data 2022*.
+
+- Jeong, J., **Jeong, H.**, and Kim, H. 2022.  
+  AutoEncoder-Based Numerical Training Data Augmentation Technique.  
+  *IEEE Big Data 2022*.
 <!-- # Educations
 - Ph.D Candidate in Culture Technology(Now), KAIST
 Human-Centered Interactive Technologies Lab (HCI Tech Lab) 
