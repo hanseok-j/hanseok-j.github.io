@@ -61,45 +61,26 @@ I am Hanseok Jeong, a Ph.D. student in the Graduate School of Culture Technology
 
 
 # Conference 
-- **Jeong, H.**, Seo, J., and Yoon, S. H. 2025.  
-  Thumb Force Estimation with Egocentric Vision.  
-  *UIST 2025 Adjunct Proceedings*.
+- **Jeong, H.**, Seo, J., and Yoon, S. H. 2025. Thumb Force Estimation with Egocentric Vision. *UIST 2025 Adjunct Proceedings*.
 
-- Seo, K., Seo, J., **Jeong, H.**, Kim, S., and Yoon, S. H. 2024.  
-  Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation.  
-  *NeurIPS 2024*.
+- Seo, K., Seo, J., **Jeong, H.**, Kim, S., and Yoon, S. H. 2024. Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation. *NeurIPS 2024*.
 
-- Yoon, S. H., Sung, Y., Song, K. W., Jung, K., Seo, K., Kim, J., Yi, H., Vanichvoranun, N., **Jeong, H.**, and Lee, H. 2024.  
-  Adaptive and Immersive XR Interactions with Wearable Interfaces.  
-  *CHI EA 2024*.
+- Yoon, S. H., Sung, Y., Song, K. W., Jung, K., Seo, K., Kim, J., Yi, H., Vanichvoranun, N., **Jeong, H.**, and Lee, H. 2024. Adaptive and Immersive XR Interactions with Wearable Interfaces. *CHI EA 2024*.
 
-- **Jeong, H.**, Fangqing, L., and Yoon, S. H. 2024.  
-  Two-Channel EMG and IMU-Based Hand Gesture Classification Using Wearable Wristband.  
-  *Proceedings of the Korea Information Science Society Conference*, 1486–1488.
+- **Jeong, H.**, Fangqing, L., and Yoon, S. H. 2024. Two-Channel EMG and IMU-Based Hand Gesture Classification Using Wearable Wristband. *Proceedings of the Korea Information Science Society Conference*, 1486–1488.
 
-- Seo, K., Seo, J., **Jeong, H.**, and Yoon, S. H. 2023.  
-  Electromyography-Based Estimation of Finger Force for Hand Interaction in Various Postures.  
-  *Proceedings of the Korea Information Science Society Conference*, 1279–1281.
+- Seo, K., Seo, J., **Jeong, H.**, and Yoon, S. H. 2023. Electromyography-Based Estimation of Finger Force for Hand Interaction in Various Postures. *Proceedings of the Korea Information Science Society Conference*, 1279–1281.
 
-- Kim, J., Kim, S., Kim, Y., Park, K., **Jeong, H.**, and Kim, J. 2023.  
-  SurProGenes: Survival Risk-Ordered Representation of Cancer Patients and Genes for the Identification of Prognostic Genes.  
-  *ICML 2023*.
+- Kim, J., Kim, S., Kim, Y., Park, K., **Jeong, H.**, and Kim, J. 2023. SurProGenes: Survival Risk-Ordered Representation of Cancer Patients and Genes for the Identification of Prognostic Genes. *ICML 2023*.
 
-- **Jeong, H.**, Jeong, J., and Kim, H. 2023.  
-  Multivariate Time-Series Data Correction by Combining Attention-Based LSTM and GAN Model.  
-  *ICASI 2023*. IEEE.
+- **Jeong, H.**, Jeong, J., and Kim, H. 2023. Multivariate Time-Series Data Correction by Combining Attention-Based LSTM and GAN Model. *ICASI 2023*. IEEE.
 
-- Jeong, J., **Jeong, H.**, and Kim, H. 2023.  
-  BAMTGAN: A Balanced Augmentation Technique for Tabular Data.  
-  *ICASI 2023*. IEEE.
+- Jeong, J., **Jeong, H.**, and Kim, H. 2023. BAMTGAN: A Balanced Augmentation Technique for Tabular Data. *ICASI 2023*. IEEE.
 
-- **Jeong, H.**., Kim, J., Jeong, J., and Kim, H. 2022.  
-  Deep Learning Models with Stratification-Based Loss Function on Domain Knowledge-Based Time Series Data: Hypotension Prediction.  
-  *IEEE Big Data 2022*.
+- **Jeong, H.**., Kim, J., Jeong, J., and Kim, H. 2022. Deep Learning Models with Stratification-Based Loss Function on Domain Knowledge-Based Time Series Data: Hypotension Prediction. *IEEE Big Data 2022*.
 
-- Jeong, J., **Jeong, H.**, and Kim, H. 2022.  
-  AutoEncoder-Based Numerical Training Data Augmentation Technique.  
-  *IEEE Big Data 2022*.
+- Jeong, J., **Jeong, H.**, and Kim, H. 2022. AutoEncoder-Based Numerical Training Data Augmentation Technique. *IEEE Big Data 2022*.
+
 <!-- # Educations
 - Ph.D Candidate in Culture Technology(Now), KAIST
 Human-Centered Interactive Technologies Lab (HCI Tech Lab) 
