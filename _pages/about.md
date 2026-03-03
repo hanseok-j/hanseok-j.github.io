@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Hanseok Jeong, a Ph.D. student in the Graduate School of Culture Technology at KAIST, advised by Prof. Sang Ho Yoon.
+I am Hanseok Jeong, a Ph.D. student in the Graduate School of Culture Technology at KAIST, advised by Prof. Sang Ho Yoon. My research focuses on hand interaction sensing, multimodal machine learning, and real-time inference systems for human-computer interaction. I aim to develop end-to-end frameworks that detect hand position and estimate force using egocentric RGB cameras and wearable sensors such as IMU and EMG.
 
-My research focuses on hand interaction sensing, multimodal machine learning, and real-time inference systems for human-computer interaction. I aim to develop end-to-end frameworks that detect hand position and estimate force using egocentric RGB cameras and wearable sensors such as IMU and EMG.
-
-# Publications 
+# Peer Reviewed Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,33 +36,20 @@ My research focuses on hand interaction sensing, multimodal machine learning, an
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# Conference 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# Educations
-- Ph.D Student in Culture Technology(Now), KAIST
+<!-- # Educations
+- Ph.D Candidate in Culture Technology(Now), KAIST
+Human-Centered Interactive Technologies Lab (HCI Tech Lab) 
+Advisor: Professor. Sang Ho Yoon
 - M.S. in Metaverse (GPA: 3.79/4.3), KAIST
+Human-Centered Interactive Technologies Lab (HCI Tech Lab) 
+Advisor: Professor. Sang Ho Yoon
 - M.S. in Electrical and Computer Engineering (GPA: 4.44/4.5), University of Seoul
-- Bachelor of Science in Applied Statistics (GPA: 4.02/4.5), Dongguk University 
+Data Mining Lab
+Advisor: Professor. Han-joon Kim
+- Bachelor of Science in Applied Statistics (GPA: 4.02/4.5), Dongguk University  -->
 
 # Research Experiences
 - *2026.02 - now* : Arizona State University, Human-in-Mind Engineering Research Lab (Visiting Scholar)
